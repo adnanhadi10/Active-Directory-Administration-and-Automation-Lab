@@ -35,9 +35,10 @@ This lab demonstrates critical network administration tasks and automation pract
 
 <p align="center">
 1. Admin account connected to the domain - mydomain.com: <br/>
-<img src=["https://i.imgur.com/VZNdNIK.jpeg"](https://github.com/adnanhadi10/Active-Directory-Administration-and-Automation-Lab/blob/188f00b88ae691937dd98c098233ff71087d1e1c/Admin%20Account%20conncected%20to%20Domain.png) height="80%" width="80%" alt="Active Directory Administration Steps"/>
-<br />
-<br />
+<img src="https://github.com/adnanhadi10/Active-Directory-Administration-and-Automation-Lab/blob/188f00b88ae691937dd98c098233ff71087d1e1c/Admin%20Account%20conncected%20to%20Domain.png" 
+     height="80%" width="80%" alt="Active Directory Administration Steps" />
+<br /><br />
+
 2. Create a new Admin User in AD _ADMINS Organizational Unit (OU):  <br/>
 <img src="https://i.imgur.com/Lmnj1XG.jpeg" height="80%" width="80%" alt="Active Directory Administration Steps"/>
 <br />
