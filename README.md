@@ -13,17 +13,20 @@ This lab demonstrates critical network administration tasks and automation pract
 
 ---
 
-### Languages and Utilities Used
+### Technologies and Tools
 - PowerShell  
 - Active Directory  
 - Oracle VM VirtualBox
 
-### Environments Used
+### Operating Environments
 - **Windows 10 (22H2)** — CLIENT1 VM  
 - **Windows Server 2019** — Domain Controller VM
 
 ---
 
 ### Network Environment Overview
-*(Add your network topology image, diagram, or explanation here)*
+
+![Network Environment Diagram](/mnt/data/b0c6c166-3f38-4b7c-99ee-9a9449b94e9c.png)
+
+
 
