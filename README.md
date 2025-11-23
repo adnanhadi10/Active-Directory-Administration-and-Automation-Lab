@@ -31,7 +31,7 @@ This lab demonstrates critical network administration tasks and automation pract
  <br />
 </p>
 
-<h2>Screenshots of Key Stages:</h2>
+<h2>Images of Important Stages:</h2>
 
 <p align="center">
 1. Admin account connected to the domain - mydomain.com: <br/>
