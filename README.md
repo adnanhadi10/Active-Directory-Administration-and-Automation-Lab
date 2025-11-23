@@ -40,11 +40,13 @@ This lab demonstrates critical network administration tasks and automation pract
 <br /><br />
 
 2. Create a new Admin User in AD _ADMINS Organizational Unit (OU):  <br/>
+<div style="text-align: center;">
 <img src="https://github.com/adnanhadi10/Active-Directory-Administration-and-Automation-Lab/blob/5f9a56851b03ab9dd6ca272ae578ad13401dc670/Step%207%20Creating%20new%20Admin%20User.png" 
      height="80%" width="80%" alt="Active Directory Administration Steps" />
 <br /><br />
 
 3. Logging into the Newly Created User: <br/>
+<div style="text-align: center;">
 <img src="https://github.com/adnanhadi10/Active-Directory-Administration-and-Automation-Lab/blob/bd4c668d348acdab6d7bb16443eeb425084c58f9/Logging%20with%20the%20Admin%20account.png" 
      height="80%" width="80%" alt="Active Directory Administration Steps" />
 <br /><br />
