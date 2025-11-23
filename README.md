@@ -69,22 +69,25 @@ This lab demonstrates critical network administration tasks and automation pract
 
 
 <p align="center"> 
-6. Run PowerShell Script to Create 1k+ Users in AD:  <br/>
-<img src="https://i.imgur.com/CrhIES1.jpeg" height="80%" width="80%" alt="Active Directory Administration Steps"/>
-<br />
-<br />
+6. Deploying DHCP:  <br/>
+  <img src="https://github.com/adnanhadi10/Active-Directory-Administration-and-Automation-Lab/blob/ba746298300ce93020199f7e52af8b964292712e/Setting%20up%20DHCP.jpg" 
+       alt="Setting up DHCP" width="80%" />
+</p>
+
 
 <p align="center">
-7. Overview of 1k+ Created Users in AD using PS script:  <br/>
-<img src="https://i.imgur.com/qpUVPKU.jpeg" height="80%" width="80%" alt="Active Directory Administration Steps"/>
-<br />
-<br />
+7. AD user creation (1k+) using PowerShell:  <br/>
+  <img src="https://github.com/adnanhadi10/Active-Directory-Administration-and-Automation-Lab/blob/7afc0e2cbd16ca715ec614382e41479c21b86f78/Adding%20Users%20using%20PowerShell.png" 
+       alt="Adding Users using PowerShell" width="80%" />
+</p>
+
 
 <p align="center"> 
-8. Check if "CLIENT1" is connected to default gateway and joined to domain:  <br/>
-<img src="https://i.imgur.com/bvpin7v.jpeg" height="80%" width="80%" alt="Active Directory Administration Steps"/>
-<br />
-<br />
+8. Ensure 'CLIENT1' is linked to the default gateway and part of the domain:  <br/>
+  <img src="https://github.com/adnanhadi10/Active-Directory-Administration-and-Automation-Lab/blob/2530e781c56c33f9bf925b7a0de477d7753309f8/Client%20connected%20to%20default%20gateway%20and%20joined%20to%20domain.png" 
+       alt="Client connected to default gateway and joined to domain" width="80%" />
+</p>
+
 
 <p align="center"> 
 9. "CLIENT1" gets assigned an IP address by the DHCP server:  <br/>
