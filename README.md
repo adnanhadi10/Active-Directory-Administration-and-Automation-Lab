@@ -39,38 +39,51 @@ This lab demonstrates critical network administration tasks and automation pract
      height="80%" width="80%" alt="Active Directory Administration Steps" />
 <br /><br />
 
+<p align="center">
 2. Create a new Admin User in AD _ADMINS Organizational Unit (OU):  <br/>
-<div style="text-align: center;">
 <img src="https://github.com/adnanhadi10/Active-Directory-Administration-and-Automation-Lab/blob/5f9a56851b03ab9dd6ca272ae578ad13401dc670/Step%207%20Creating%20new%20Admin%20User.png" 
      height="80%" width="80%" alt="Active Directory Administration Steps" />
 <br /><br />
 
+<p align="center">
 3. Logging into the Newly Created User: <br/>
 <div style="text-align: center;">
 <img src="https://github.com/adnanhadi10/Active-Directory-Administration-and-Automation-Lab/blob/bd4c668d348acdab6d7bb16443eeb425084c58f9/Logging%20with%20the%20Admin%20account.png" 
      height="80%" width="80%" alt="Active Directory Administration Steps" />
 <br /><br />
 
+<p align="center">
 4. Configuring RAS for NAT and PAT:  <br/>
 <img src="https://i.imgur.com/w9QEE7o.jpeg" height="80%" width="80%" alt="Active Directory Administration Steps"/>
 <br />
 <br />
+
+<p align="center">
 5. Setting up DHCP:  <br/>
 <img src="https://i.imgur.com/WdhgMp8.jpeg" height="80%" width="80%" alt="Active Directory Administration Steps"/>
 <br />
 <br />
+
+
+<p align="center"> 
 6. Run PowerShell Script to Create 1k+ Users in AD:  <br/>
 <img src="https://i.imgur.com/CrhIES1.jpeg" height="80%" width="80%" alt="Active Directory Administration Steps"/>
 <br />
 <br />
+
+<p align="center">
 7. Overview of 1k+ Created Users in AD using PS script:  <br/>
 <img src="https://i.imgur.com/qpUVPKU.jpeg" height="80%" width="80%" alt="Active Directory Administration Steps"/>
 <br />
 <br />
+
+<p align="center"> 
 8. Check if "CLIENT1" is connected to default gateway and joined to domain:  <br/>
 <img src="https://i.imgur.com/bvpin7v.jpeg" height="80%" width="80%" alt="Active Directory Administration Steps"/>
 <br />
 <br />
+
+<p align="center"> 
 9. "CLIENT1" gets assigned an IP address by the DHCP server:  <br/>
 <img src="https://i.imgur.com/opoV54e.jpeg" height="80%" width="80%" alt="Active Directory Administration Steps"/>
 <br />
