@@ -47,10 +47,10 @@ This lab demonstrates critical network administration tasks and automation pract
 
 <p align="center">
 3. Logging into the Newly Created User: <br/>
-<div style="text-align: center;">
 <img src="https://github.com/adnanhadi10/Active-Directory-Administration-and-Automation-Lab/blob/bd4c668d348acdab6d7bb16443eeb425084c58f9/Logging%20with%20the%20Admin%20account.png" 
      height="80%" width="80%" alt="Active Directory Administration Steps" />
 <br /><br />
+
 
 <p align="center">
 4. Configuring RAS for NAT and PAT:  <br/>
