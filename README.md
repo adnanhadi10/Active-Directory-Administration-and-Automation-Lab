@@ -61,10 +61,11 @@ This lab demonstrates critical network administration tasks and automation pract
 
 
 <p align="center">
-5. Setting up DHCP:  <br/>
-<img src="https://i.imgur.com/WdhgMp8.jpeg" height="80%" width="80%" alt="Active Directory Administration Steps"/>
-<br />
-<br />
+5. Setting up Network Address Translation (NAT):  <br/>
+  <img src="https://github.com/adnanhadi10/Active-Directory-Administration-and-Automation-Lab/blob/fedafea6d2030af1e602d5b29715aa7125d51b39/Setting%20up%20the%20Network%20Address%20Translation%20(NAT).png" 
+       alt="Setting up NAT" width="80%" />
+</p>
+
 
 
 <p align="center"> 
