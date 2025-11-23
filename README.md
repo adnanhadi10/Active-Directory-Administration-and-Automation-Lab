@@ -25,7 +25,8 @@ This lab demonstrates critical network administration tasks and automation pract
 ---
 
 ### Network Environment Overview
-<img src="[https://i.imgur.com/fwmNQBE.jpeg" height="80%" width="80%"](https://imgur.com/a/4VNArNh) alt="Active Directory Administration Steps"/>
+![Active Directory Administration Steps](images/active-directory-overview.jpeg)
+
 
 
 
