@@ -90,9 +90,11 @@ This lab demonstrates critical network administration tasks and automation pract
 
 
 <p align="center"> 
-9. "CLIENT1" gets assigned an IP address by the DHCP server:  <br/>
-<img src="https://i.imgur.com/opoV54e.jpeg" height="80%" width="80%" alt="Active Directory Administration Steps"/>
-<br />
+9. "DHCP server assigns an IP to 'CLIENT1:  <br/> 
+  <img src="https://github.com/adnanhadi10/Active-Directory-Administration-and-Automation-Lab/blob/b0247848ce36b59b51b9c9f8453c3ac60f20a7d1/Client1%20gets%20assigned%20an%20IP%20address%20by%20DHCP.jpg"  
+       alt="Client1 gets assigned an IP address by DHCP" width="80%" />  
+</p>
+
 </p>
 
 <!--
