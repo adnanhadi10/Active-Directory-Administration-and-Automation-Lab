@@ -40,7 +40,7 @@ This lab demonstrates critical network administration tasks and automation pract
 <br /><br />
 
 <p align="center">
-2. Create a new Admin User in AD _ADMINS Organizational Unit (OU):  <br/>
+2. Add a new admin account to the _ADMINS OU in Active Directory:  <br/>
 <img src="https://github.com/adnanhadi10/Active-Directory-Administration-and-Automation-Lab/blob/5f9a56851b03ab9dd6ca272ae578ad13401dc670/Step%207%20Creating%20new%20Admin%20User.png" 
      height="80%" width="80%" alt="Active Directory Administration Steps" />
 <br /><br />
@@ -53,10 +53,12 @@ This lab demonstrates critical network administration tasks and automation pract
 
 
 <p align="center">
-4. Configuring RAS for NAT and PAT:  <br/>
-<img src="https://i.imgur.com/w9QEE7o.jpeg" height="80%" width="80%" alt="Active Directory Administration Steps"/>
-<br />
-<br />
+4. Setting up the Remote Access Service (RAS):  <br/>
+    <img src="https://github.com/adnanhadi10/Active-Directory-Administration-and-Automation-Lab/blob/7f2db37f44f05550dcdc75b0a16b98dad326081b/Setting%20up%20the%20Remote%20Access%20Service%20(RAS).png" 
+         height="80%" width="80%" alt="Setting up the Remote Access Service (RAS)" />
+    <br /><br />
+</div>
+
 
 <p align="center">
 5. Setting up DHCP:  <br/>
