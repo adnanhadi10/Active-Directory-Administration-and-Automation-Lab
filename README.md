@@ -27,7 +27,7 @@ This lab demonstrates critical network administration tasks and automation pract
 <h2>Network Environment Overview</h2>
 <p align="center">
 <br/>
-<img src="https://i.imgur.com/fwmNQBE.jpeg" height="80%" width="80%" alt="Active Directory Administration Steps"/>
+<img src=<blockquote class="imgur-embed-pub" lang="en" data-id="a/4VNArNh" data-context="false" ><a href="//imgur.com/a/4VNArNh"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script> height="80%" width="80%" alt="Active Directory Administration Steps"/>
  <br />
 </p>
 
@@ -35,7 +35,8 @@ This lab demonstrates critical network administration tasks and automation pract
 
 <p align="center">
 1. Administrator account connected to the domain - mydomain.com: <br/>
-<img src=<blockquote class="imgur-embed-pub" lang="en" data-id="a/4VNArNh" data-context="false" ><a href="//imgur.com/a/4VNArNh"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script> height="80%" width="80%" alt="Active Directory Administration Steps"/>
+ 
+<height="80%" width="80%" alt="Active Directory Administration Steps"/>
 <br />
 <br />
 2. Create a new Admin User in AD _ADMINS Organizational Unit (OU):  <br/>
